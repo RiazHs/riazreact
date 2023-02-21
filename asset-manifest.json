@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/riazreact/static/css/main.ff67e881.css",
+    "main.js": "/riazreact/static/js/main.6c4f278b.js",
+    "index.html": "/riazreact/index.html",
+    "main.ff67e881.css.map": "/riazreact/static/css/main.ff67e881.css.map",
+    "main.6c4f278b.js.map": "/riazreact/static/js/main.6c4f278b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff67e881.css",
+    "static/js/main.6c4f278b.js"
+  ]
+}
