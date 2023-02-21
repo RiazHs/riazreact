@@ -1,0 +1,23 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-container1 {
+  height: 1000px;
+  padding: px;
+  align-self: center;
+}
+.home-text1 {
+  color: #ffffff;
+  padding: 60px;
+  font-size: 100px;
+  margin-top: 0px;
+  text-align: center;
+  text-transform: capitalize;
+  background-color: rgb(17, 12, 222);
+}
